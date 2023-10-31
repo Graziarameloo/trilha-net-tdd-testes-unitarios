@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dcgW3YMgitg22jpAtLZwVLlEcfR/SeYkLW07YwvCHLrLU+VcfZrvaHzjvU63x8blGItK/AV8VVlaBtnutxhP0g==",
+  "success": true,
+  "projectFilePath": "C:\\DIO\\csharp\\TDDETestesUnitarios\\ProjetoTdd\\ProjetoTdd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\DIO\csharp\TDDETestesUnitarios\ProjetoTdd\bin\Debug\net6.0\ProjetoTdd.exe
+C:\DIO\csharp\TDDETestesUnitarios\ProjetoTdd\bin\Debug\net6.0\ProjetoTdd.deps.json
+C:\DIO\csharp\TDDETestesUnitarios\ProjetoTdd\bin\Debug\net6.0\ProjetoTdd.runtimeconfig.json
+C:\DIO\csharp\TDDETestesUnitarios\ProjetoTdd\bin\Debug\net6.0\ProjetoTdd.dll
+C:\DIO\csharp\TDDETestesUnitarios\ProjetoTdd\bin\Debug\net6.0\ProjetoTdd.pdb
+C:\DIO\csharp\TDDETestesUnitarios\ProjetoTdd\obj\Debug\net6.0\ProjetoTdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\csharp\TDDETestesUnitarios\ProjetoTdd\obj\Debug\net6.0\ProjetoTdd.AssemblyInfoInputs.cache
+C:\DIO\csharp\TDDETestesUnitarios\ProjetoTdd\obj\Debug\net6.0\ProjetoTdd.AssemblyInfo.cs
+C:\DIO\csharp\TDDETestesUnitarios\ProjetoTdd\obj\Debug\net6.0\ProjetoTdd.csproj.CoreCompileInputs.cache
+C:\DIO\csharp\TDDETestesUnitarios\ProjetoTdd\obj\Debug\net6.0\ProjetoTdd.dll
+C:\DIO\csharp\TDDETestesUnitarios\ProjetoTdd\obj\Debug\net6.0\refint\ProjetoTdd.dll
+C:\DIO\csharp\TDDETestesUnitarios\ProjetoTdd\obj\Debug\net6.0\ProjetoTdd.pdb
+C:\DIO\csharp\TDDETestesUnitarios\ProjetoTdd\obj\Debug\net6.0\ProjetoTdd.genruntimeconfig.cache
+C:\DIO\csharp\TDDETestesUnitarios\ProjetoTdd\obj\Debug\net6.0\ref\ProjetoTdd.dll
